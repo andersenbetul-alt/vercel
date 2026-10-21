@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/node": "20.11.0",
     "ts-to-zod": "^3",
-    "vite": "6.4.3",
+    "vite": "6.4.4",
     "vitest": "4.1.10"
   },
   "publishConfig": {
